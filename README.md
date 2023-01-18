@@ -30,3 +30,4 @@ THEN the password is either displayed in an alert or written to the page.<br>
 ![](./assets/images/screenshot3.png)
 
 ## GITHUB pages link:
+https://minthare.github.io/best--passwordgenerator/
